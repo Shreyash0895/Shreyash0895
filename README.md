@@ -1,29 +1,252 @@
+<h1 align="center">Hi 👋, I'm Shreyash Jokare</h1>
 
-Introduction:
-I am Shreyash Jokare an Final Year Electronics and Computer Engineering Student at Progressive Modern College of Engineering Pune.I am  enthusiastic and detail-oriented fresher with a strong foundation in Java , Python , MySQL. I have certifications in Python , MySQL , C++ , Java ,  and I’m always eager to learn and improve my skills.  I’m excited to start my career in a dynamic work environment where I can learn and grow.
+<h3 align="center">Full Stack Developer • Software Engineering Student • Tech Enthusiast</h3>
 
-<h3 align="center">Electronics & Computer Engineering Student | Full Stack Developer | Tech Enthusiast</h3>
+<p align="center">
+  <a href="https://github.com/Shreyash0895">
+    <img src="https://komarev.com/ghpvc/?username=Shreyash0895&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyash_jokare) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyash-jokare-2b58b623a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jokareshreyash@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shreyash0895&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shreyash0895&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash0895&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shreyash0895&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shreyash0895&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/Shreyash0895?tab=followers">
+    <img src="https://img.shields.io/github/followers/Shreyash0895?label=Followers&style=flat&logo=github" />
+  </a>
+  <a href="https://github.com/Shreyash0895?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-26-181717?style=flat&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/shreyash-jokare-2b58b623a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shreyash0895&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm an **Electronics & Computer Engineering student** at **Progressive Modern College of Engineering, Pune**, passionate about building practical software products and solving real-world problems through technology.
+
+* 💻 Focused on **Full Stack Development & Software Engineering**
+* ⚛️ Building applications with **React, Angular, Node.js and Express**
+* 🗄️ Working with **MongoDB and MySQL**
+* 🤖 Exploring **Machine Learning and AI-powered applications**
+* 🐳 Learning and applying **Docker, CI/CD and cloud deployment**
+* ☕ Strong foundation in **Java, Python, C++ and JavaScript**
+* 🚀 I enjoy turning ideas into functional, production-oriented projects
+* 🎯 Currently preparing for **Software Engineering / Full Stack Developer opportunities**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,sql" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,angular,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### AI / Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+</p>
+
+### Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## ⛓️ VoteChain Zero
+
+A blockchain-based voting platform focused on creating a secure, transparent and tamper-resistant digital voting experience.
+
+**Focus:** Blockchain • Web Development • Secure Voting • Transparency
+
+🔗 **[View Repository](https://github.com/Shreyash0895/VoteChain-Zero)**
+
+---
+
+## 📦 SmartShelfX — AI Inventory Management
+
+An AI-powered inventory management platform that uses demand forecasting to help businesses monitor inventory and automate restocking decisions.
+
+### Highlights
+
+* 🤖 AI-powered demand forecasting
+* 📊 Inventory analytics and reporting
+* 📦 Automated purchase-order workflow
+* 🔔 Smart stock and expiry alerts
+* 👥 Role-based access for Admin, Manager and Vendor
+* 🐳 Dockerized multi-service architecture
+* ⚙️ GitHub Actions CI/CD
+* ☁️ Cloud deployment
+
+**Tech:** Angular • Node.js • MongoDB Atlas • Python • Scikit-learn • Docker • GitHub Actions
+
+🔗 **[View Repository](https://github.com/Shreyash0895/SmartshelfX-AI-Based-Inventory-Management-and-Auto-Restock)**
+🌐 **[Live Demo](https://smartshelfx.vercel.app/)**
+
+---
+
+## 💼 Freelancer Web App — FreelanceHub
+
+A full-stack freelance marketplace where clients can post projects and freelancers can bid, communicate and get hired.
+
+### Highlights
+
+* 🔐 JWT authentication & role-based access
+* 📋 Project posting, search and filtering
+* 💰 Real-time bidding system
+* 💬 Private and global chat
+* 💳 Stripe payment integration
+* 📧 Email notifications
+* 📎 Cloudinary file uploads
+* 📊 Analytics dashboard
+* 🧾 PDF invoice generation
+* 🔔 In-app notifications
+
+**Tech:** React • Node.js • Express • MongoDB • Socket.io • JWT • Stripe • Cloudinary
+
+🔗 **[View Repository](https://github.com/Shreyash0895/Freelancer-Web-App)**
+🌐 **[Live Application](https://authentic-beauty-production-e914.up.railway.app/)**
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shreyash0895&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash0895&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shreyash0895&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shreyash0895&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyash0895&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🔝 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Shreyash0895&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shreyash0895/Shreyash0895/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## 📜 Certifications & Learning
+
+* 🐍 Python
+* ☕ Java
+* 💾 MySQL
+* ⚡ C++
+* 🔀 Git & GitHub
+* 🎓 Infosys Springboard Virtual Internship
+
+---
+
+## 🎯 Current Focus
+
+```text
+Full Stack Development
+        ↓
+React + Angular + Node.js
+        ↓
+REST APIs + Databases
+        ↓
+AI/ML Integration
+        ↓
+Docker + CI/CD + Cloud
+        ↓
+Production-Ready Applications
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:jokareshreyash@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shreyash-jokare-2b58b623a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shreyash0895">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/ShreyashJokare">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Build • Learn • Improve • Repeat 🚀</b>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider starring the repositories!
+</p>
